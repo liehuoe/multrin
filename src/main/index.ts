@@ -43,7 +43,7 @@ app.on('ready', () => {
         label: 'Other',
         submenu: [
           {
-            accelerator: 'CmdOrCtrl+Shift+F12',
+            accelerator: 'CmdOrCtrl+Shift+F11',
             label: 'Toggle developer tools (window)',
             visible: false,
             click() {
